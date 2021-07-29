@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Katrina
+- 👀 I’m interested in computational biology
+- 💞️ I’m looking to collaborate on all things RNA-Seq
+- 📫 How to reach me katrina.schlum@cchmc.org

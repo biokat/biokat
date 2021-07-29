@@ -1,3 +1,0 @@
-- 👋 Hi, I’m Katrina
-- 👀 I’m interested in computational biology
-- 💞️ I’m looking to collaborate on all things RNA-Seq
